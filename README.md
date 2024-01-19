@@ -5,7 +5,7 @@ I'm a computer science student at the University of Valladolid, passionate about
 ## About Me
 - 🎓 Computer Science student at the University of Valladolid
 - 💻 Preferred Language: JavaScript
-- 🔒 Primary Interests: Programming, with a touch of security
+- 🔒 Primary Interests: Programming, security n forensics
 - 🌐 [LinkedIn](https://www.linkedin.com/in/andresgomezares)
 
 ## Main projects up to current date
